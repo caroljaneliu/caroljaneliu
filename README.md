@@ -4,14 +4,8 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/OopsCarolLau)
  
-Welcome to my Github page! I am Carol and I am currently finishing my Computer Science Master degree at USST!  
+Welcome to my Github page! I am Carol and I am currently working as a soft engineer. 
   
- 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Science Master Degree 
-
-#### 📌 Things I am planing: 
-- Graduation travel
 
  
 <p>
